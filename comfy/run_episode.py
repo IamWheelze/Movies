@@ -1,6 +1,8 @@
 '''Run a whole episode: make a keyframe for every shot, then animate each into a clip.
 
-Usage: python3 run_episode.py EPISODE_DIR [--order 00,03,04] [--comfy DIR] [--host URL] [--redo]
+Usage: python3 run_episode.py EPISODE_DIR [--order 00,03,04] [--cands N --kf-only] [--comfy DIR] [--host URL] [--redo]
+With --cands N it writes N candidate keyframes kf-<id>-<k>.png; copy the best to kf-<id>.png before rendering clips.
+kf_overrides.txt (id|prompt) in the episode folder replaces the automatic keyframe prompt for a shot.
 Reads style.json and shots.txt (id|seconds|refs|direct|prompt) from EPISODE_DIR.
 Reference images must be in ComfyUI input as ref-<id>.png.
 '''
@@ -11,6 +13,14 @@ opt = dict(zip(sys.argv[2:], sys.argv[3:]))
 host = opt.get('--host', 'http://127.0.0.1:8188')
 comfy = opt.get('--comfy', '/workspace/runpod-slim/ComfyUI')
 redo = '--redo' in sys.argv
+cands = int(opt.get('--cands', 0))
+kf_only = '--kf-only' in sys.argv
+overrides = {}
+if os.path.exists(ep + '/kf_overrides.txt'):
+    for line in open(ep + '/kf_overrides.txt'):
+        if line.strip():
+            k, v = line.strip().split('|', 1)
+            overrides[k] = v
 style = json.load(open(ep + '/style.json'))
 shots = {}
 for line in open(ep + '/shots.txt'):
@@ -114,7 +124,7 @@ def vid_workflow(image, text, frames, seed, sid):
 def make_keyframe(shot):
     sid = shot['id']
     dest = comfy + '/input/kf-' + sid + '.png'
-    if os.path.exists(dest) and not redo:
+    if os.path.exists(dest) and not redo and not cands:
         return
     if shot['direct']:
         shutil.copy(comfy + '/input/ref-' + shot['refs'][0] + '.png', dest)
@@ -127,9 +137,12 @@ def make_keyframe(shot):
     text = ('Edit image 1 into the opening frame of a new shot. Shot: ' + shot['prompt'] + ' ' + who +
             ' Keep the hand-painted style, geography and architecture of image 1. Keep each person exact face, hair and clothes'
             ' from their own image. Show only the people this shot describes and no other people.')
-    f = run(kf_workflow(images, text, random.randrange(2**31), sid))['13']['images'][0]
-    shutil.copy(comfy + '/output/' + f['subfolder'] + '/' + f['filename'], dest)
-    log('keyframe', sid, 'done')
+    if sid in overrides:
+        text = overrides[sid]
+    for k in range(cands or 1):
+        f = run(kf_workflow(images, text, random.randrange(2**31), sid))['13']['images'][0]
+        shutil.copy(comfy + '/output/' + f['subfolder'] + '/' + f['filename'], comfy + '/input/kf-' + sid + ('-%d' % k if cands else '') + '.png')
+        log('keyframe', sid, 'candidate', k)
 
 
 def make_clip(shot):
@@ -152,6 +165,9 @@ for sid in order:
         make_keyframe(shots[sid])
     except Exception as e:
         log('FAILED keyframe', sid, e)
+if kf_only:
+    log('KEYFRAMES DONE')
+    sys.exit()
 log('clips')
 for sid in order:
     if not os.path.exists(comfy + '/input/kf-' + sid + '.png'):
