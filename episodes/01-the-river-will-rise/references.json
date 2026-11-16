@@ -1,0 +1,12 @@
+[
+  {"id": "balaam", "prompt": "Character reference sheet. Young adult man with warm brown skin, a narrow face, dark eyes, shoulder-length black curls tied at the nape, and light beard growth. Faded indigo tunic, sand-colored sash, dark brown sandals. Full body, neutral standing pose, plain background."},
+  {"id": "balaam-after-flood", "prompt": "Same young man as the Balaam reference: warm brown skin, narrow face, dark eyes, shoulder-length black curls tied at the nape, light beard growth, faded indigo tunic, sand-colored sash, dark brown sandals. His right palm is wrapped in undyed linen. Full body, plain background."},
+  {"id": "beor", "prompt": "Character reference sheet. Lean older man with sun-weathered skin, close gray curls and a short gray beard. Olive-brown tunic. Dignified and attentive expression. Full body, neutral standing pose, plain background."},
+  {"id": "hadan", "prompt": "Character reference sheet. Broad-shouldered grain merchant with a square beard, a rust-brown mantle over a plain cream tunic, clothes well kept. Measured, businesslike expression. Full body, neutral standing pose, plain background."},
+  {"id": "girl-and-mother", "prompt": "Character reference of two figures standing together to show relative height. A girl with two short braids in a muted ochre tunic, and her mother in a gray-green wrap. Full body, plain background."},
+  {"id": "stranger", "prompt": "Character reference sheet. Dusty traveler in a weathered gray-brown mantle. A broken strap on his right sandal is repaired with blue thread. Full body, neutral standing pose, plain background."},
+  {"id": "stranger-sandal", "prompt": "Close-up insert of a traveler's right foot on packed earth. A worn leather sandal with a broken strap tied neatly with unmistakable blue thread. Soft dawn light."},
+  {"id": "river-and-ferry", "prompt": "Wide establishing view from a high river bank looking across. A timber ferry landing in the near left foreground with a low wooden platform ferry big enough to carry several people. Low mudbrick houses cluster center-right on the far bank, and a ridge rises behind them. Calm evening."},
+  {"id": "beor-house", "prompt": "Small mudbrick house interior. The door faces the lane, a low bench runs along the wall, a clay grain jar sits just inside the doorway, one oil lamp. No people."},
+  {"id": "beor-house-reverse", "prompt": "Reverse angle from the lane looking at the timber door of a small mudbrick house, packed earth underfoot, soft dawn light. No people."}
+]
