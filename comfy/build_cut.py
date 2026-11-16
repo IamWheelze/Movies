@@ -8,6 +8,8 @@ import glob, os, subprocess
 A = '/workspace/balaam/audio/'
 order = '01 02 00 03 04 05 06 07 08a 08b 09 10 11 12 13 14 15 16'.split()
 slow = ('03', '04')
+# Shots cut off where the video model starts adding people who are not in the shot (seconds kept).
+TRIM = {'13': 1.8, '14': 2.2, '16': 1.0}
 lines = ['god1', 'god2', 'bal1', 'god3']
 
 
@@ -25,7 +27,8 @@ for i in order:
     src = sorted(glob.glob('shots/%s_s*.mp4' % i))[0]
     dst = '/tmp/cut/%s.mp4' % i
     vf = 'setpts=2*PTS,minterpolate=fps=16:mi_mode=mci' if i in slow else 'fps=16'
-    sh('ffmpeg', '-y', '-loglevel', 'error', '-i', src, '-vf', vf + ',format=yuv420p', '-c:v', 'libx264', '-crf', '18', '-an', dst)
+    tr = ['-t', str(TRIM[i])] if i in TRIM else []
+    sh('ffmpeg', '-y', '-loglevel', 'error', '-i', src, *tr, '-vf', vf + ',format=yuv420p', '-c:v', 'libx264', '-crf', '18', '-an', dst)
     parts.append(dst)
 start = sum(dur(p) for p in parts[:order.index('03')])
 open('/tmp/cut/list.txt', 'w').write(''.join("file '%s'\n" % p for p in parts))
@@ -43,6 +46,6 @@ for n, name in enumerate(lines):
     print(name, 'starts at %.1f s' % t)
     t += dur(A + name + '_n.wav') + 0.9
 fc.append(''.join(mix) + 'amix=inputs=%d:normalize=0,loudnorm=I=-16[a]' % len(mix))
-cmd += ['-filter_complex', ';'.join(fc), '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-shortest', 'episode01_rough_cut_v2.mp4']
+cmd += ['-filter_complex', ';'.join(fc), '-map', '0:v', '-map', '[a]', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-shortest', 'episode01_rough_cut_v3.mp4']
 sh(*cmd)
-print('shot 03 starts at %.1f s, final length %.1f s' % (start, dur('episode01_rough_cut_v2.mp4')))
+print('shot 03 starts at %.1f s, final length %.1f s' % (start, dur('episode01_rough_cut_v3.mp4')))
