@@ -26,7 +26,7 @@ def workflow(ref, seed):
         "3": {"class_type": "VAELoader", "inputs": {"vae_name": "ae.safetensors"}},
         "4": {"class_type": "ModelSamplingAuraFlow", "inputs": {"model": ["1", 0], "shift": 3}},
         "5": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["2", 0], "text": pos}},
-        "6": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["2", 0], "text": style["negative"]}},
+        "6": {"class_type": "CLIPTextEncode", "inputs": {"clip": ["2", 0], "text": style["negative"] + ", " + ref.get("negative_extra", "")}},
         "7": {"class_type": "EmptySD3LatentImage", "inputs": {"width": w, "height": h, "batch_size": 1}},
         "8": {"class_type": "KSampler", "inputs": {"model": ["4", 0], "positive": ["5", 0], "negative": ["6", 0],
               "latent_image": ["7", 0], "seed": seed, "steps": 25, "cfg": 4, "sampler_name": "res_multistep",

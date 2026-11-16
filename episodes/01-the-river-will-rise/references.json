@@ -29,14 +29,17 @@
   },
   {
     "id": "river-and-ferry",
-    "prompt": "Wide establishing view at human eye level from a high river bank, looking across a calm river at dusk. A single low wooden platform ferry is tied at a timber landing in the near left foreground, with a rope strung across the water. Low mudbrick houses cluster center-right on the far bank, and a ridge rises behind them. The settlement is quiet and completely empty: no people, no figures, no crowd, no animals."
+    "prompt": "Wide establishing view at human eye level from a high river bank, looking across a calm river at dusk. A single low wooden platform ferry is tied at a timber landing in the near left foreground, with a rope strung across the water. Low mudbrick houses cluster center-right on the far bank, and a ridge rises behind them. The settlement is quiet and deserted at dusk.",
+    "negative_extra": "people, person, human figures, crowd, villagers, silhouettes of people, children, animals"
   },
   {
     "id": "beor-house",
-    "prompt": "Small mudbrick house interior. The door faces the lane, a low bench runs along the wall, a clay grain jar sits just inside the doorway, one oil lamp. No people."
+    "prompt": "Small mudbrick house interior. The door faces the lane, a low bench runs along the wall, a clay grain jar sits just inside the doorway, one oil lamp. No people.",
+    "negative_extra": "people, person, human figures, crowd, villagers, silhouettes of people, children, animals"
   },
   {
     "id": "beor-house-reverse",
-    "prompt": "Reverse angle from the lane looking at the timber door of a small mudbrick house, packed earth underfoot, soft dawn light. No people."
+    "prompt": "Reverse angle from the lane looking at the timber door of a small mudbrick house, packed earth underfoot, soft dawn light. No people.",
+    "negative_extra": "people, person, human figures, crowd, villagers, silhouettes of people, children, animals"
   }
 ]
