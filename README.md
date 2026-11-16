@@ -8,6 +8,7 @@ AI-generated animated episodes, produced with ComfyUI on a rented Runpod GPU.
 - `episodes/<nn-title>/references.json` — characters and locations to generate once and reuse.
 - `episodes/<nn-title>/shots.json` — one entry per clip: prompt, length, and which references it needs.
 - `comfy/gen_refs.py` — generates reference images with Z-Image.
+- `comfy/gen_keyframe.py` — places a character into a scene with Flux.2 Klein (image edit) to make a shot's starting frame.
 - `comfy/gen_shot.py` — animates a keyframe into a clip with Wan 2.2 image-to-video.
 
 ## Running
@@ -16,6 +17,10 @@ Both scripts talk to a ComfyUI server (default `http://127.0.0.1:8188`, so run t
 
 ```bash
 python3 comfy/gen_refs.py episodes/01-the-river-will-rise --seeds 2
+```
+
+```bash
+python3 comfy/gen_keyframe.py 03 ref-river-and-ferry.png ref-balaam.png --prompt "Edit image 1. Add the man from image 2 ..."
 ```
 
 ```bash
@@ -30,5 +35,6 @@ A keyframe for `gen_shot.py` must be in ComfyUI's `input/` folder.
 From the `Comfy-Org` repositories on Hugging Face, placed under `ComfyUI/models/`:
 
 - Z-Image: `diffusion_models/z_image_bf16.safetensors`, `text_encoders/qwen_3_4b.safetensors`, `vae/ae.safetensors`
+- Flux.2 Klein 4B: `diffusion_models/flux-2-klein-4b-fp8.safetensors`, `vae/flux2-vae.safetensors` (reuses `qwen_3_4b.safetensors`)
 - Wan 2.2 I2V 14B: both `wan2.2_i2v_*_noise_14B_fp8_scaled.safetensors`, both 4-step `lightx2v` LoRAs,
   `text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors`, `vae/wan_2.1_vae.safetensors`
