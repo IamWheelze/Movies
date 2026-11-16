@@ -137,7 +137,11 @@ def make_clip(shot):
     if glob.glob(comfy + '/output/shots/' + sid + '_s*.mp4') and not redo:
         return
     frames = min(shot['seconds'], 5) * 16 + 1
-    text = shot['prompt'] + ' Hand-painted 2D animation, painted backgrounds with visible texture, restrained deliberate movement, steady camera.'
+    if all(r in LOCATIONS for r in shot['refs']):
+        extra = ' The scene stays completely empty and deserted: no people, no animals, and nobody walks into the frame. Only water, reeds, light and flames move.'
+    else:
+        extra = ' Only the people already in the first frame appear. Nobody else walks into the frame. Everyone wears ancient plain wool tunics and robes, never modern clothing.'
+    text = shot['prompt'] + extra + ' Hand-painted 2D animation, painted backgrounds with visible texture, restrained deliberate movement, steady camera.'
     run(vid_workflow('kf-' + sid + '.png', text, frames, random.randrange(2**31), sid))
     log('clip', sid, 'done')
 
