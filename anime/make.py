@@ -15,7 +15,7 @@ opt = dict(zip(sys.argv[2:], sys.argv[3:]))
 only = opt['--only'].split(',') if '--only' in opt else None
 QUALITY = 'masterpiece, high score, great score, absurdres, anime screenshot, cinematic lighting, detailed background, '
 NEG = ('lowres, bad anatomy, bad hands, text, error, missing finger, extra digits, fewer digits, cropped, worst quality, low quality, '
-       'low score, bad score, average score, signature, watermark, username, blurry, 3d, realistic, photo, multiple boys, crowd')
+       'low score, bad score, average score, signature, watermark, username, blurry, 3d, realistic, photo')
 WAN_NEG = 'blurry, static, still image, deformed, extra limbs, bad hands, text, subtitles, watermark, jpeg artifacts, realistic, 3d render'
 
 
