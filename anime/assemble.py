@@ -1,7 +1,7 @@
 '''Join the anime clips in order and mix in the river sound and the spoken lines.
 
-Run in /workspace/runpod-slim/ComfyUI/output. Needs /workspace/anime/audio/*.wav
-Clips are smoothed from 16 to 24 fps.
+Run in /workspace/runpod-slim/ComfyUI/output. Needs /workspace/anime/audio/*.wav and the
+upscaled clips in /workspace/anime/up (see upscale.py). Clips are smoothed from 16 to 24 fps.
 '''
 import glob, subprocess
 
@@ -21,7 +21,7 @@ def dur(p):
 
 parts = []
 for i in order:
-    src = sorted(glob.glob('clips/%s_s*.mp4' % i))[0]
+    src = '/workspace/anime/up/%s.mp4' % i
     dst = '/tmp/a_%s.mp4' % i
     sh('ffmpeg', '-y', '-loglevel', 'error', '-i', src, '-vf', 'minterpolate=fps=24:mi_mode=mci:mc_mode=aobmc:vsbmc=1,format=yuv420p',
        '-c:v', 'libx264', '-crf', '16', '-an', dst)
