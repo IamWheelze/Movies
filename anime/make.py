@@ -6,9 +6,13 @@ python3 make.py clips SHOTS.txt [--only 01,02]            animate the chosen sti
 
 SHOTS.txt lines: id|still prompt|motion prompt
 '''
-import glob, json, random, shutil, sys, time, urllib.request
+import glob, json, os, random, shutil, sys, time, urllib.request
 
 host = 'http://127.0.0.1:8188'
+SW, SH = int(os.environ.get('SW', 1344)), int(os.environ.get('SH', 768))   # still size
+CW, CH = int(os.environ.get('CW', 1280)), int(os.environ.get('CH', 720))   # clip size
+FR = int(os.environ.get('FR', 81))  # default clip frames (4k+1)
+PREFIX = os.environ.get('PREFIX', '')  # extra style words put before every still prompt
 comfy = '/workspace/runpod-slim/ComfyUI'
 mode = sys.argv[1]
 opt = dict(zip(sys.argv[2:], sys.argv[3:]))
@@ -47,18 +51,20 @@ def shots():
     out = []
     for line in open(sys.argv[2]):
         if line.strip():
-            sid, still, motion = line.strip().split('|', 2)
+            parts = line.strip().split('|')
+            sid, still, motion = parts[0], parts[1], parts[2]
+            fr = int(parts[3]) if len(parts) > 3 else FR
             if only is None or sid in only:
-                out.append((sid, still, motion))
+                out.append((sid, still, motion, fr))
     return out
 
 
 def still_wf(text, seed, name):
     return {
         '1': {'class_type': 'CheckpointLoaderSimple', 'inputs': {'ckpt_name': 'animagine-xl-4.0.safetensors'}},
-        '2': {'class_type': 'CLIPTextEncode', 'inputs': {'clip': ['1', 1], 'text': QUALITY + text}},
+        '2': {'class_type': 'CLIPTextEncode', 'inputs': {'clip': ['1', 1], 'text': QUALITY + PREFIX + text}},
         '3': {'class_type': 'CLIPTextEncode', 'inputs': {'clip': ['1', 1], 'text': NEG}},
-        '4': {'class_type': 'EmptyLatentImage', 'inputs': {'width': 1344, 'height': 768, 'batch_size': 1}},
+        '4': {'class_type': 'EmptyLatentImage', 'inputs': {'width': SW, 'height': SH, 'batch_size': 1}},
         '5': {'class_type': 'KSampler', 'inputs': {'model': ['1', 0], 'positive': ['2', 0], 'negative': ['3', 0], 'latent_image': ['4', 0],
               'seed': seed, 'steps': 28, 'cfg': 5, 'sampler_name': 'euler_ancestral', 'scheduler': 'normal', 'denoise': 1}},
         '6': {'class_type': 'VAEDecode', 'inputs': {'samples': ['5', 0], 'vae': ['1', 2]}},
@@ -89,7 +95,7 @@ def clip_wf(image, text, seed, name, frames=81):
         '4': {'class_type': 'CLIPTextEncode', 'inputs': {'clip': ['1', 0], 'text': WAN_NEG}},
         '5': {'class_type': 'LoadImage', 'inputs': {'image': image}},
         '6': {'class_type': 'WanImageToVideo', 'inputs': {'positive': ['3', 0], 'negative': ['4', 0], 'vae': ['2', 0], 'start_image': ['5', 0],
-              'width': 1280, 'height': 720, 'length': frames, 'batch_size': 1}},
+              'width': CW, 'height': CH, 'length': frames, 'batch_size': 1}},
         '7': sampler('h2', ['6', 2], 'enable', 0, 2, 'enable'),
         '8': sampler('l2', ['7', 0], 'disable', 2, 4, 'disable'),
         '9': {'class_type': 'VAEDecode', 'inputs': {'samples': ['8', 0], 'vae': ['2', 0]}},
@@ -101,7 +107,7 @@ def clip_wf(image, text, seed, name, frames=81):
 
 if mode == 'stills':
     n = int(opt.get('--n', 3))
-    for sid, still, motion in shots():
+    for sid, still, motion, fr in shots():
         for k in range(n):
             out = run(still_wf(still, random.randrange(2**31), 'stills/%s_c%d' % (sid, k)))
             f = out['7']['images'][0]
@@ -114,8 +120,8 @@ elif mode == 'pick':
         shutil.copy(comfy + '/input/cand-%s-%s.png' % (sid, k), comfy + '/input/still-%s.png' % sid)
         log('picked', sid, k)
 elif mode == 'clips':
-    for sid, still, motion in shots():
+    for sid, still, motion, fr in shots():
         text = motion + ' Anime style, smooth hand-drawn animation, expressive, cinematic.'
-        run(clip_wf('still-%s.png' % sid, text, random.randrange(2**31), 'clips/%s_s%d' % (sid, random.randrange(10**6))))
+        run(clip_wf('still-%s.png' % sid, text, random.randrange(2**31), 'clips/%s_s%d' % (sid, random.randrange(10**6)), fr))
         log('clip', sid, 'done')
     log('CLIPS DONE')
