@@ -93,7 +93,7 @@ for name, shot, off in SFX:
 fc.append(''.join(mix) + 'amix=inputs=%d:normalize=0:duration=longest,loudnorm=I=-16:TP=-1.5,atrim=0:%.2f[a]' % (len(mix), total))
 sh(*(cmd + ['-filter_complex', ';'.join(fc), '-map', '[a]', '-c:a', 'pcm_s16le', '/workspace/anime/mix.wav']))
 
-vf = "subtitles=/workspace/anime/ep1.srt:original_size=1080x1920:force_style='FontName=DejaVu Sans,FontSize=44,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,Outline=3,Shadow=0,Alignment=2,MarginV=430'"
+vf = "subtitles=/workspace/anime/ep1.srt:original_size=1080x1920:force_style='FontName=DejaVu Sans,FontSize=9,Bold=1,PrimaryColour=&H00FFFFFF,OutlineColour=&H00000000,Outline=1.3,Shadow=0,Alignment=2,MarginV=62,MarginL=14,MarginR=14'"
 sh('ffmpeg', '-y', '-loglevel', 'error', '-i', '/tmp/v_all.mp4', '-i', '/workspace/anime/mix.wav', '-vf', vf, '-map', '0:v', '-map', '1:a',
    '-c:v', 'libx264', '-preset', 'slow', '-crf', '16', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', OUT)
 print('length %.1f s' % total)
