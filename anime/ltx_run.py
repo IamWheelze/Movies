@@ -19,7 +19,11 @@ frames = int(round(secs * FPS / 8)) * 8 + 1  # LTX wants 8k+1
 
 def api(path, body=None):
     req = urllib.request.Request(HOST + path, json.dumps(body).encode() if body is not None else None, {'Content-Type': 'application/json'})
-    return json.load(urllib.request.urlopen(req))
+    try:
+        return json.load(urllib.request.urlopen(req))
+    except urllib.error.HTTPError as e:
+        print(e.read().decode()[:3000])
+        sys.exit(1)
 
 
 info = api('/object_info')
@@ -44,8 +48,8 @@ def widget_values(n):
         t = allin[nm]
         typ = t[0]
         opts = t[1] if len(t) > 1 else {}
-        if isinstance(typ, str) and typ.isupper() and typ not in ('INT', 'FLOAT', 'STRING', 'BOOLEAN', 'COMBO'):
-            continue  # a socket
+        if isinstance(typ, str) and not any(p in ('INT', 'FLOAT', 'STRING', 'BOOLEAN', 'COMBO') for p in typ.split(',')):
+            continue  # a socket (types like "FLOAT,INT" are still widgets)
         if k < len(wv):
             out[nm] = wv[k]
             k += 1
