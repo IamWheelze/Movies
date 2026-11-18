@@ -88,14 +88,20 @@ for nid, n in g.items():
         if isinstance(v, list) and len(v) == 2 and isinstance(v[0], str) and v[0] != 'IMG' and v[0] not in g:
             del n['inputs'][k]
 g['IMG'] = {'class_type': 'LoadImage', 'inputs': {'image': img}}
-# length: the template reads seconds through a primitive, set both latent length nodes
+# the template computes length from seconds x fps; seconds is the primitive saved as 5, the size primitives are 1280 / 720
+W, H = int(opt.get('--w', 640)), int(opt.get('--h', 1152))  # vertical; both must stay multiples of 64
 for nid, n in g.items():
-    if n['class_type'] == 'EmptyLTXVLatentVideo':
-        n['inputs']['length'] = frames
-    if n['class_type'] == 'LTXVEmptyLatentAudio':
-        n['inputs']['frames_number'] = frames
-    if n['class_type'] == 'PrimitiveInt' and n['inputs'].get('value') == 5:
-        n['inputs']['value'] = int(secs)
+    if n['class_type'] == 'PrimitiveInt':
+        v = n['inputs'].get('value')
+        if v == 5:
+            n['inputs']['value'] = int(secs)
+        elif v == 1280:
+            n['inputs']['value'] = W
+        elif v == 720:
+            n['inputs']['value'] = H
+    if n['class_type'] == 'ResizeImageMaskNode':
+        n['inputs'] = {'input': ['IMG', 0], 'resize_type': 'scale dimensions', 'resize_type.width': n['inputs']['resize_type.width'],
+                       'resize_type.height': n['inputs']['resize_type.height'], 'resize_type.crop': 'center', 'scale_method': 'lanczos'}
 g['OUT'] = {'class_type': 'SaveVideo', 'inputs': {'video': ['310', 0], 'filename_prefix': 'ltx/' + name, 'format': 'auto', 'codec': 'auto'}}
 json.dump(g, open('/workspace/t/last_graph.json', 'w'), indent=1)
 pid = api('/prompt', {'prompt': g})['prompt_id']
