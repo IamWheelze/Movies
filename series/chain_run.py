@@ -59,11 +59,13 @@ elif mode == 'clips':
         if os.path.exists(dst):
             prev = dst
             continue
-        if u['key'] != '-':
+        if u['key'] not in ('-',) and not u['key'].startswith('from:'):
             img = 'still-%s.png' % u['key']
         else:
+            # '-' continues from the previous unit; 'from:uNN' continues from the last frame of an earlier unit
             img = 'chain-%s.png' % u['id']
-            sh('ffmpeg', '-y', '-loglevel', 'error', '-sseof', '-0.1', '-i', prev, '-frames:v', '1', '-update', '1', '-q:v', '1', COMFY + 'input/' + img)
+            origin = d + u['key'][5:] + '.mp4' if u['key'].startswith('from:') else prev
+            sh('ffmpeg', '-y', '-loglevel', 'error', '-sseof', '-0.1', '-i', origin, '-frames:v', '1', '-update', '1', '-q:v', '1', COMFY + 'input/' + img)
         best = None
         for tr in range(3):
             name = '%s_%s_t%d' % (ch, u['id'], tr)
