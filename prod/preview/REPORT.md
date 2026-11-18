@@ -11,3 +11,10 @@ Render 35-60 s per 7-10 s clip at 1280x704 (warm). All spoken lines matched scri
 Failures: S021 changes composition at ~40%; S022/S023/S025 characters differ from each other and from sheets; S025 morphs into a different layout (table lamp, new man). Keyframe model drew single subjects well, multi-person rescue compositions poorly (K24 no hand, K25 only girl).
 Character sheets (prod/chars): art good, identity not locked across views (Animagine tag-only).
 Pod 08kfgew9ujqght stopped. Spend this session approx $1.0.
+
+# Proof v2 with cast LoRA (E01_SC05 restaged, 1280x704, 40.5 s)
+LoRA: SDXL rank 32, one LoRA for balaam_c / mother_c / girl_c, 82 images (28/28/26), 1400 steps bs2 at 768, 15.5 min on L40S. Weights on Pod volume: /workspace/t/lora_out/pytorch_lora_weights.safetensors (also ComfyUI loras/balaam_cast_v1.safetensors). Not in repo (93 MB).
+Result: identity and geometry hold through whole shots in S022 (Balaam), S023 (mother), retried S021 (mother in boat, from behind) and retried S025 (girl close-up). Two shots needed retries (first pass: S021 jumped to a different two-person layout at ~15%, S025 lamp became a giant glowing "hat"); fixed with simpler prompts + different seed. S024 rope insert reused from first proof (no LoRA needed).
+Staging changes: mother-lifts-girl action replaced by girl close-up (per QUALITY_REVIEW fallback); S021 speaker seen from behind.
+All lines word-for-word by whisper. Render 35-60 s per clip warm. Retry rate this stage: 2 of 4 shots re-rolled.
+Known: LoRA does not yet show Balaam and mother together in one frame; mother's hair shows odd pink/gray tint in S023; speech voices not yet consistent across shots (native LTX audio).
