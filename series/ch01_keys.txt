@@ -1,0 +1,3 @@
+k1|scenery, river, small wooden boat on a calm river, 2boys, old man with gray beard and teenage boy together on the boat, wide shot, dawn, golden light, mist, reeds on the bank, male focus, olive tunic, indigo tunic|x|81
+k2|scenery, night, narrow lane in a river town, small flat-roofed mudbrick house with a glowing window, full moon, river shining in the distance, no humans, blue night|x|81
+k3|1boy, solo, BALY asleep on a straw bed in a dark mudbrick room, moonlight through a small window, blue night, peaceful, wide shot, a wooden bench beside the bed|x|81
