@@ -107,10 +107,11 @@ elif mode == 'assemble':
         src = d + s['id'] + '.mp4'
         if not os.path.exists(src):
             continue
-        dst = '/tmp/a_%s.mp4' % s['id']
+        dst = '/tmp/a_%s.mkv' % s['id']
+        # sound is cut to exactly the picture length and kept as PCM so clips join without drift
+        dur = float(subprocess.check_output(['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=duration', '-of', 'csv=p=0', src]))
         sh('ffmpeg', '-y', '-loglevel', 'error', '-i', src, '-vf', 'scale=1080:1920:flags=lanczos,unsharp=5:5:0.5:5:5:0.0,fps=25,format=yuv420p',
-           '-af', 'loudnorm=I=-18:TP=-2,aresample=48000', '-ac', '2', '-c:v', 'libx264', '-crf', '15', '-c:a', 'aac', '-b:a', '192k', dst)
-        dur = float(subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', dst]))
+           '-af', 'loudnorm=I=-18:TP=-2,aresample=48000,apad', '-ac', '2', '-t', '%.3f' % dur, '-c:v', 'libx264', '-crf', '15', '-c:a', 'pcm_s16le', dst)
         if s['line']:
             seg, _ = wm.transcribe(src)
             seg = list(seg)
@@ -120,7 +121,7 @@ elif mode == 'assemble':
         parts.append(dst)
         t += dur
     open('/tmp/a_list.txt', 'w').write(''.join('file %s\n' % p for p in parts))
-    sh('ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', '/tmp/a_list.txt', '-c', 'copy', '/tmp/a_all.mp4')
+    sh('ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', '/tmp/a_list.txt', '-c', 'copy', '/tmp/a_all.mkv')
 
     def tc(x):
         return '%02d:%02d:%02d,%03d' % (x // 3600, x % 3600 // 60, int(x) % 60, int(round((x - int(x)) * 1000)) % 1000)
@@ -132,7 +133,7 @@ elif mode == 'assemble':
        'lowpass=f=900,tremolo=f=0.1:d=0.25,afade=t=in:d=4,afade=t=out:st=%d:d=4' % (t - 4), '/tmp/a_pad.wav')
     vf = ("subtitles=%s.srt:original_size=1080x1920:force_style='FontName=DejaVu Sans,FontSize=9,Bold=1,PrimaryColour=&H00FFFFFF,"
           "OutlineColour=&H00000000,Outline=1.3,Shadow=0,Alignment=2,MarginV=62,MarginL=14,MarginR=14'" % (OUT + ep))
-    sh('ffmpeg', '-y', '-loglevel', 'error', '-i', '/tmp/a_all.mp4', '-i', '/tmp/a_pad.wav', '-filter_complex',
+    sh('ffmpeg', '-y', '-loglevel', 'error', '-i', '/tmp/a_all.mkv', '-i', '/tmp/a_pad.wav', '-filter_complex',
        '[1:a]volume=0.10[p];[0:a][p]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-16:TP=-1.5[a]', '-map', '0:v', '-map', '[a]', '-vf', vf,
        '-c:v', 'libx264', '-preset', 'slow', '-crf', '17', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', OUT + ep + '.mp4')
     print('ASSEMBLED', ep, '%.1f s' % t)
