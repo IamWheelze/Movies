@@ -1,3 +1,15 @@
 k1|scenery, river, small wooden boat on a calm river, 2boys, old man with gray beard and teenage boy together on the boat, wide shot, dawn, golden light, mist, reeds on the bank, male focus, olive tunic, indigo tunic|x|81
 k2|scenery, night, narrow lane in a river town, small flat-roofed mudbrick house with a glowing window, full moon, river shining in the distance, no humans, blue night|x|81
 k3|1boy, solo, BALY asleep on a straw bed in a dark mudbrick room, moonlight through a small window, blue night, peaceful, wide shot, a wooden bench beside the bed|x|81
+k4|1boy, solo, BALY holding a small glowing clay oil lamp, standing at night outside a mudbrick house, warm lamp glow on his face, moonlight, river in the distance, wide shot|x|81
+k5|1boy, solo, BALY climbing a steep dark hill path at night carrying a glowing lamp, from behind, river far below shining in moonlight, wide shot|x|81
+k6|1boy, solo, BALY standing with a glowing clay lamp at an abandoned stone landing above a dark river at night, worn stone steps, one tall wooden post, wide shot|x|81
+k7|close-up, a wooden oar with a strip of red cloth tied to its handle floating in dark river water at the foot of old stone steps, night, lamp light reflecting, no humans|x|81
+k8|small wooden boat turned sideways on a dark river at night, adult woman in gray-green wrap with headscarf at the stern holding a short oar, little girl with two braids beside her, wide shot|x|81
+k9|1boy, solo, BALY leaning over the edge of an old stone landing at night, one hand cupped to his mouth, lamp glowing behind him|x|81
+k10|1boy, solo, BALY wading into shallow dark water at a river inlet at night, catching a rope, lamp light on the water, wide shot|x|81
+k11|dawn at a stone landing by a river, adult woman in gray-green wrap and little girl with two braids sitting wrapped in blankets on the steps, 1boy BALY standing tired beside them, golden light, wide shot|x|81
+k12|1boy, solo, BALY sitting beneath a lamp hanging on a tall wooden post at an old stone landing at dusk, river below, wide shot|x|81
+k13|close-up, a clay oil lamp flame glowing in the dark, river reflections behind, night, no humans|x|81
+k14|1boy, solo, BALY sitting soaked beneath a hanging lamp in heavy rain at night at an old stone landing, wide shot|x|81
+k15|2boys, BEOR old man with gray curly hair and short gray beard holding a wooden bowl, BALY soaked wrapped in a blanket, inside a mudbrick room, warm morning light, medium shot|x|81
