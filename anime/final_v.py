@@ -71,7 +71,7 @@ sh('ffmpeg', '-y', '-loglevel', 'error', '-f', 'lavfi', '-i', 'anoisesrc=color=b
    '[0]lowpass=f=650,highpass=f=50,tremolo=f=0.13:d=0.35[a];[1]highpass=f=1200,lowpass=f=3500,tremolo=f=0.55:d=0.8,volume=0.10[b];[a][b]amix=inputs=2:normalize=0,volume=0.9,afade=t=in:d=2', S + 'river.wav')
 sh('ffmpeg', '-y', '-loglevel', 'error', '-f', 'lavfi', '-i',
    'aevalsrc=0.30*sin(2*PI*110*t)+0.20*sin(2*PI*164.81*t)+0.15*sin(2*PI*220*t)+0.10*sin(2*PI*261.63*t)*(0.5+0.5*sin(2*PI*0.07*t)):d=%d:s=48000' % (total + 2),
-   '-af', 'lowpass=f=900,tremolo=f=0.09:d=0.25,afade=t=in:d=4,afade=t=out:st=%d:d=4' % (total - 4), S + 'pad.wav')
+   '-af', 'lowpass=f=900,tremolo=f=0.1:d=0.25,afade=t=in:d=4,afade=t=out:st=%d:d=4' % (total - 4), S + 'pad.wav')
 
 cmd = ['ffmpeg', '-y', '-loglevel', 'error', '-i', S + 'river.wav', '-i', S + 'pad.wav']
 fc = ['[0:a]volume=0.55[r]', '[1:a]volume=0.22[p]']
