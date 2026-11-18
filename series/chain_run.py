@@ -138,7 +138,7 @@ elif mode == 'assemble':
        'aevalsrc=0.30*sin(2*PI*110*t)+0.20*sin(2*PI*164.81*t)+0.15*sin(2*PI*220*t):d=%d:s=48000' % (t + 2), '-af',
        'lowpass=f=900,tremolo=f=0.1:d=0.25,afade=t=in:d=4,afade=t=out:st=%d:d=4' % (t - 4), '/tmp/c_pad.wav')
     vf = ("subtitles=%s.srt:original_size=1080x1920:force_style='FontName=DejaVu Sans,FontSize=9,Bold=1,PrimaryColour=&H00FFFFFF,"
-          "OutlineColour=&H00000000,Outline=1.3,Shadow=0,Alignment=2,MarginV=62,MarginL=14,MarginR=14'" % (OUT + ch))
+          "OutlineColour=&H00000000,Outline=1.3,Shadow=0,Alignment=2,MarginV=105,MarginL=14,MarginR=14'" % (OUT + ch))
     sh('ffmpeg', '-y', '-loglevel', 'error', '-i', '/tmp/c_all.mkv', '-i', '/tmp/c_pad.wav', '-filter_complex',
        '[1:a]volume=0.08[p];[0:a][p]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-16:TP=-1.5[a]', '-map', '0:v', '-map', '[a]', '-vf', vf,
        '-c:v', 'libx264', '-preset', 'slow', '-crf', '17', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', OUT + ch + '.mp4')
