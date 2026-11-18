@@ -1,0 +1,15 @@
+BALAAM_Y_v0|solo, male focus, young man, warm brown skin, narrow face, black curly hair tied at nape, light beard, faded indigo tunic, sand sash, brown sandals, full body, standing, front view, plain light background, character design sheet|x|25
+BALAAM_Y_v1|solo, male focus, young man, warm brown skin, narrow face, black curly hair tied at nape, light beard, faded indigo tunic, sand sash, brown sandals, full body, standing, three-quarter view, plain light background, character design sheet|x|25
+BALAAM_Y_v2|solo, male focus, young man, warm brown skin, narrow face, black curly hair tied at nape, light beard, faded indigo tunic, sand sash, brown sandals, full body, standing, side profile view, plain light background, character design sheet|x|25
+BEOR_v0|solo, male focus, old man, lean, warm brown skin, short gray curly hair, short gray beard, olive-brown tunic, full body, standing, front view, plain light background, character design sheet|x|25
+BEOR_v1|solo, male focus, old man, lean, warm brown skin, short gray curly hair, short gray beard, olive-brown tunic, full body, standing, three-quarter view, plain light background, character design sheet|x|25
+BEOR_v2|solo, male focus, old man, lean, warm brown skin, short gray curly hair, short gray beard, olive-brown tunic, full body, standing, side profile view, plain light background, character design sheet|x|25
+MOTHER_v0|solo, adult woman, warm brown skin, dark hair bound at nape, gray-green wrap dress, strong forearms, full body, standing, front view, plain light background, character design sheet|x|25
+MOTHER_v1|solo, adult woman, warm brown skin, dark hair bound at nape, gray-green wrap dress, strong forearms, full body, standing, three-quarter view, plain light background, character design sheet|x|25
+MOTHER_v2|solo, adult woman, warm brown skin, dark hair bound at nape, gray-green wrap dress, strong forearms, full body, standing, side profile view, plain light background, character design sheet|x|25
+GIRL_CHILD_v0|solo, little girl, warm brown skin, two short braids, ochre tunic, full body, standing, front view, plain light background, character design sheet|x|25
+GIRL_CHILD_v1|solo, little girl, warm brown skin, two short braids, ochre tunic, full body, standing, three-quarter view, plain light background, character design sheet|x|25
+GIRL_CHILD_v2|solo, little girl, warm brown skin, two short braids, ochre tunic, full body, standing, side profile view, plain light background, character design sheet|x|25
+DONKEY_v0|no humans, small gray-brown donkey, dark dorsal stripe, pale muzzle, rope halter, sand saddle blanket, full body, standing, front view, plain light background, character design sheet|x|25
+DONKEY_v1|no humans, small gray-brown donkey, dark dorsal stripe, pale muzzle, rope halter, sand saddle blanket, full body, standing, three-quarter view, plain light background, character design sheet|x|25
+DONKEY_v2|no humans, small gray-brown donkey, dark dorsal stripe, pale muzzle, rope halter, sand saddle blanket, full body, standing, side profile view, plain light background, character design sheet|x|25
