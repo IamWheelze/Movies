@@ -1,0 +1,7371 @@
+[
+  {
+    "id": "BALAAM_Y_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_Y/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_Y_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_Y/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_Y_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_Y/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_Y_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_Y/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_Y_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_Y/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_Y_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_Y/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_A_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_A/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_A_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_A/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_A_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_A/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_A_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_A/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_A_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_A/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAAM_A_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAAM_A/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BEOR_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BEOR/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BEOR_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BEOR/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BEOR_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BEOR/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BEOR_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BEOR/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BEOR_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BEOR/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BEOR_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BEOR/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "HADAN_front",
+    "kind": "character_reference",
+    "path": "assets/characters/HADAN/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "HADAN_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/HADAN/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "HADAN_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/HADAN/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "HADAN_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/HADAN/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "HADAN_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/HADAN/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "HADAN_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/HADAN/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_CHILD_front",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_CHILD/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_CHILD_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_CHILD/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_CHILD_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_CHILD/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_CHILD_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_CHILD/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_CHILD_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_CHILD/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_CHILD_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_CHILD/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_ADULT_front",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_ADULT/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_ADULT_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_ADULT/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_ADULT_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_ADULT/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_ADULT_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_ADULT/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_ADULT_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_ADULT/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_ADULT_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_ADULT/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_OLDER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_OLDER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_OLDER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_OLDER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_OLDER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_OLDER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_OLDER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_OLDER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_OLDER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_OLDER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "GIRL_OLDER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/GIRL_OLDER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOTHER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/MOTHER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOTHER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/MOTHER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOTHER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/MOTHER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOTHER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/MOTHER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOTHER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/MOTHER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOTHER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/MOTHER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BAKER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BAKER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BAKER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BAKER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BAKER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BAKER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BAKER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BAKER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BAKER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BAKER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BAKER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BAKER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "NEIGHBOR_front",
+    "kind": "character_reference",
+    "path": "assets/characters/NEIGHBOR/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "NEIGHBOR_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/NEIGHBOR/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "NEIGHBOR_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/NEIGHBOR/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "NEIGHBOR_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/NEIGHBOR/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "NEIGHBOR_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/NEIGHBOR/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "NEIGHBOR_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/NEIGHBOR/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "WOMAN_front",
+    "kind": "character_reference",
+    "path": "assets/characters/WOMAN/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "WOMAN_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/WOMAN/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "WOMAN_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/WOMAN/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "WOMAN_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/WOMAN/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "WOMAN_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/WOMAN/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "WOMAN_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/WOMAN/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BROTHER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BROTHER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BROTHER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BROTHER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BROTHER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BROTHER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BROTHER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BROTHER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BROTHER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BROTHER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BROTHER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BROTHER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "SON_front",
+    "kind": "character_reference",
+    "path": "assets/characters/SON/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "SON_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/SON/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "SON_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/SON/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "SON_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/SON/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "SON_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/SON/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "SON_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/SON/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRAPPED_WOMAN_front",
+    "kind": "character_reference",
+    "path": "assets/characters/TRAPPED_WOMAN/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRAPPED_WOMAN_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/TRAPPED_WOMAN/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRAPPED_WOMAN_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/TRAPPED_WOMAN/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRAPPED_WOMAN_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/TRAPPED_WOMAN/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRAPPED_WOMAN_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/TRAPPED_WOMAN/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRAPPED_WOMAN_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/TRAPPED_WOMAN/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_MOTHER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/CITY_MOTHER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_MOTHER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/CITY_MOTHER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_MOTHER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/CITY_MOTHER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_MOTHER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/CITY_MOTHER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_MOTHER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/CITY_MOTHER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_MOTHER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/CITY_MOTHER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY1_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY1/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY1_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY1/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY1_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY1/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY1_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY1/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY1_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY1/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY1_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY1/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY2_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY2/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY2_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY2/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY2_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY2/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY2_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY2/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY2_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY2/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BOY2_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BOY2/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRADER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/TRADER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRADER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/TRADER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRADER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/TRADER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRADER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/TRADER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRADER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/TRADER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "TRADER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/TRADER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "HEALER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/HEALER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "HEALER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/HEALER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "HEALER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/HEALER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "HEALER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/HEALER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "HEALER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/HEALER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "HEALER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/HEALER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "DRIVER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/DRIVER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "DRIVER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/DRIVER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "DRIVER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/DRIVER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "DRIVER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/DRIVER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "DRIVER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/DRIVER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "DRIVER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/DRIVER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_MAN_front",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_MAN/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_MAN_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_MAN/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_MAN_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_MAN/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_MAN_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_MAN/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_MAN_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_MAN/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_MAN_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_MAN/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_SISTER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_SISTER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_SISTER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_SISTER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_SISTER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_SISTER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_SISTER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_SISTER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_SISTER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_SISTER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD_SISTER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/FIELD_SISTER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_front",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAK/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAK/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAK/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAK/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAK/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/BALAK/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_front",
+    "kind": "character_reference",
+    "path": "assets/characters/ENVOY/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/ENVOY/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/ENVOY/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/ENVOY/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/ENVOY/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/ENVOY/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "DONKEY_front",
+    "kind": "character_reference",
+    "path": "assets/characters/DONKEY/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "DONKEY_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/DONKEY/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "DONKEY_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/DONKEY/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "DONKEY_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/DONKEY/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "DONKEY_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/DONKEY/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "DONKEY_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/DONKEY/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "ANGEL_front",
+    "kind": "character_reference",
+    "path": "assets/characters/ANGEL/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "ANGEL_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/ANGEL/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "ANGEL_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/ANGEL/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "ANGEL_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/ANGEL/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "ANGEL_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/ANGEL/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "ANGEL_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/ANGEL/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT1_front",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT1/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT1_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT1/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT1_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT1/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT1_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT1/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT1_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT1/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT1_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT1/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT2_front",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT2/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT2_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT2/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT2_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT2/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT2_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT2/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT2_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT2/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "SERVANT2_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/SERVANT2/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_YOUNG_front",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_YOUNG/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_YOUNG_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_YOUNG/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_YOUNG_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_YOUNG/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_YOUNG_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_YOUNG/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_YOUNG_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_YOUNG/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_YOUNG_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_YOUNG/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_BROTHER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_BROTHER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_BROTHER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_BROTHER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_BROTHER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_BROTHER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_BROTHER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_BROTHER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_BROTHER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_BROTHER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_BROTHER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/ISRAEL_BROTHER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOST_WOMAN_front",
+    "kind": "character_reference",
+    "path": "assets/characters/HOST_WOMAN/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOST_WOMAN_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/HOST_WOMAN/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOST_WOMAN_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/HOST_WOMAN/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOST_WOMAN_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/HOST_WOMAN/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOST_WOMAN_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/HOST_WOMAN/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOST_WOMAN_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/HOST_WOMAN/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOSES_front",
+    "kind": "character_reference",
+    "path": "assets/characters/MOSES/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOSES_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/MOSES/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOSES_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/MOSES/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOSES_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/MOSES/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOSES_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/MOSES/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOSES_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/MOSES/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "PHINEHAS_front",
+    "kind": "character_reference",
+    "path": "assets/characters/PHINEHAS/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "PHINEHAS_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/PHINEHAS/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "PHINEHAS_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/PHINEHAS/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "PHINEHAS_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/PHINEHAS/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "PHINEHAS_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/PHINEHAS/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "PHINEHAS_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/PHINEHAS/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "ZIMRI_front",
+    "kind": "character_reference",
+    "path": "assets/characters/ZIMRI/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "ZIMRI_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/ZIMRI/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "ZIMRI_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/ZIMRI/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "ZIMRI_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/ZIMRI/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "ZIMRI_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/ZIMRI/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "ZIMRI_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/ZIMRI/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "COZBI_front",
+    "kind": "character_reference",
+    "path": "assets/characters/COZBI/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "COZBI_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/COZBI/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "COZBI_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/COZBI/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "COZBI_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/COZBI/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "COZBI_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/COZBI/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "COZBI_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/COZBI/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN_MAN_front",
+    "kind": "character_reference",
+    "path": "assets/characters/MIDIAN_MAN/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN_MAN_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/MIDIAN_MAN/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN_MAN_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/MIDIAN_MAN/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN_MAN_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/MIDIAN_MAN/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN_MAN_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/MIDIAN_MAN/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN_MAN_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/MIDIAN_MAN/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "DAUGHTER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/DAUGHTER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "DAUGHTER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/DAUGHTER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "DAUGHTER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/DAUGHTER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "DAUGHTER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/DAUGHTER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "DAUGHTER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/DAUGHTER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "DAUGHTER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/DAUGHTER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "WORKER_front",
+    "kind": "character_reference",
+    "path": "assets/characters/WORKER/front.png",
+    "status": "needed"
+  },
+  {
+    "id": "WORKER_three_quarter",
+    "kind": "character_reference",
+    "path": "assets/characters/WORKER/three_quarter.png",
+    "status": "needed"
+  },
+  {
+    "id": "WORKER_profile",
+    "kind": "character_reference",
+    "path": "assets/characters/WORKER/profile.png",
+    "status": "needed"
+  },
+  {
+    "id": "WORKER_full_body",
+    "kind": "character_reference",
+    "path": "assets/characters/WORKER/full_body.png",
+    "status": "needed"
+  },
+  {
+    "id": "WORKER_listening",
+    "kind": "character_reference",
+    "path": "assets/characters/WORKER/listening.png",
+    "status": "needed"
+  },
+  {
+    "id": "WORKER_speaking",
+    "kind": "character_reference",
+    "path": "assets/characters/WORKER/speaking.png",
+    "status": "needed"
+  },
+  {
+    "id": "LANDING_DAY",
+    "kind": "location_master",
+    "path": "assets/locations/LANDING_DAY.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOUSE",
+    "kind": "location_master",
+    "path": "assets/locations/HOUSE.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOUSE_NIGHT",
+    "kind": "location_master",
+    "path": "assets/locations/HOUSE_NIGHT.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOUSE_DAY",
+    "kind": "location_master",
+    "path": "assets/locations/HOUSE_DAY.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOUSE_EVENING",
+    "kind": "location_master",
+    "path": "assets/locations/HOUSE_EVENING.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOUSE_RAIN",
+    "kind": "location_master",
+    "path": "assets/locations/HOUSE_RAIN.png",
+    "status": "needed"
+  },
+  {
+    "id": "HOUSE_LATER",
+    "kind": "location_master",
+    "path": "assets/locations/HOUSE_LATER.png",
+    "status": "needed"
+  },
+  {
+    "id": "RIDGE_NIGHT",
+    "kind": "location_master",
+    "path": "assets/locations/RIDGE_NIGHT.png",
+    "status": "needed"
+  },
+  {
+    "id": "RIDGE_DAWN",
+    "kind": "location_master",
+    "path": "assets/locations/RIDGE_DAWN.png",
+    "status": "needed"
+  },
+  {
+    "id": "RIDGE_EVENING",
+    "kind": "location_master",
+    "path": "assets/locations/RIDGE_EVENING.png",
+    "status": "needed"
+  },
+  {
+    "id": "INLET_NIGHT",
+    "kind": "location_master",
+    "path": "assets/locations/INLET_NIGHT.png",
+    "status": "needed"
+  },
+  {
+    "id": "MARKET",
+    "kind": "location_master",
+    "path": "assets/locations/MARKET.png",
+    "status": "needed"
+  },
+  {
+    "id": "MARKET_LATER",
+    "kind": "location_master",
+    "path": "assets/locations/MARKET_LATER.png",
+    "status": "needed"
+  },
+  {
+    "id": "LANDING_WINTER",
+    "kind": "location_master",
+    "path": "assets/locations/LANDING_WINTER.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_FIRE",
+    "kind": "location_master",
+    "path": "assets/locations/CITY_FIRE.png",
+    "status": "needed"
+  },
+  {
+    "id": "CITY_SQUARE",
+    "kind": "location_master",
+    "path": "assets/locations/CITY_SQUARE.png",
+    "status": "needed"
+  },
+  {
+    "id": "RIVER_DRY",
+    "kind": "location_master",
+    "path": "assets/locations/RIVER_DRY.png",
+    "status": "needed"
+  },
+  {
+    "id": "LANDING_FLOOD",
+    "kind": "location_master",
+    "path": "assets/locations/LANDING_FLOOD.png",
+    "status": "needed"
+  },
+  {
+    "id": "MEADOW",
+    "kind": "location_master",
+    "path": "assets/locations/MEADOW.png",
+    "status": "needed"
+  },
+  {
+    "id": "MEADOW_DUSK",
+    "kind": "location_master",
+    "path": "assets/locations/MEADOW_DUSK.png",
+    "status": "needed"
+  },
+  {
+    "id": "FIELD",
+    "kind": "location_master",
+    "path": "assets/locations/FIELD.png",
+    "status": "needed"
+  },
+  {
+    "id": "PETHOR_LATER",
+    "kind": "location_master",
+    "path": "assets/locations/PETHOR_LATER.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_DAY",
+    "kind": "location_master",
+    "path": "assets/locations/ISRAEL_DAY.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_EDGE",
+    "kind": "location_master",
+    "path": "assets/locations/ISRAEL_EDGE.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_DUSK",
+    "kind": "location_master",
+    "path": "assets/locations/ISRAEL_DUSK.png",
+    "status": "needed"
+  },
+  {
+    "id": "ISRAEL_DAWN",
+    "kind": "location_master",
+    "path": "assets/locations/ISRAEL_DAWN.png",
+    "status": "needed"
+  },
+  {
+    "id": "BALAK_HALL",
+    "kind": "location_master",
+    "path": "assets/locations/BALAK_HALL.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOAB_GATE",
+    "kind": "location_master",
+    "path": "assets/locations/MOAB_GATE.png",
+    "status": "needed"
+  },
+  {
+    "id": "ROAD_OPEN",
+    "kind": "location_master",
+    "path": "assets/locations/ROAD_OPEN.png",
+    "status": "needed"
+  },
+  {
+    "id": "ROAD_FIELD",
+    "kind": "location_master",
+    "path": "assets/locations/ROAD_FIELD.png",
+    "status": "needed"
+  },
+  {
+    "id": "ROAD_WALL",
+    "kind": "location_master",
+    "path": "assets/locations/ROAD_WALL.png",
+    "status": "needed"
+  },
+  {
+    "id": "ROAD_NARROW",
+    "kind": "location_master",
+    "path": "assets/locations/ROAD_NARROW.png",
+    "status": "needed"
+  },
+  {
+    "id": "MOAB_GUEST",
+    "kind": "location_master",
+    "path": "assets/locations/MOAB_GUEST.png",
+    "status": "needed"
+  },
+  {
+    "id": "OVERLOOK1",
+    "kind": "location_master",
+    "path": "assets/locations/OVERLOOK1.png",
+    "status": "needed"
+  },
+  {
+    "id": "OVERLOOK2",
+    "kind": "location_master",
+    "path": "assets/locations/OVERLOOK2.png",
+    "status": "needed"
+  },
+  {
+    "id": "OVERLOOK3",
+    "kind": "location_master",
+    "path": "assets/locations/OVERLOOK3.png",
+    "status": "needed"
+  },
+  {
+    "id": "ROAD_MOAB",
+    "kind": "location_master",
+    "path": "assets/locations/ROAD_MOAB.png",
+    "status": "needed"
+  },
+  {
+    "id": "ENVOY_ROOM",
+    "kind": "location_master",
+    "path": "assets/locations/ENVOY_ROOM.png",
+    "status": "needed"
+  },
+  {
+    "id": "PEOR_FEAST",
+    "kind": "location_master",
+    "path": "assets/locations/PEOR_FEAST.png",
+    "status": "needed"
+  },
+  {
+    "id": "ROAD_CAMP",
+    "kind": "location_master",
+    "path": "assets/locations/ROAD_CAMP.png",
+    "status": "needed"
+  },
+  {
+    "id": "MIDIAN",
+    "kind": "location_master",
+    "path": "assets/locations/MIDIAN.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S014_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S014_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S025_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S025_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E01_S030_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E01_S030_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S006_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S006_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S010_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S010_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S014_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S014_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S020_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S020_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S025_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S025_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S028_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E02_S030_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E02_S030_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S001_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S001_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S006_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S006_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S010_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S010_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S014_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S014_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S016_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S016_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S019_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S019_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S020_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S020_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S025_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S025_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E03_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E03_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S006_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S006_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S010_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S010_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S020_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S020_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E04_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E04_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S010_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S010_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S014_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S014_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S019_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S019_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E05_S030_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E05_S030_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S001_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S001_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S019_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S019_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E06_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E06_S028_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S001_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S001_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S019_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S019_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S020_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S020_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S025_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S025_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S028_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E07_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E07_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S001_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S001_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S006_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S006_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S010_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S010_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S016_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S016_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S019_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S019_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S025_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S025_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E08_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E08_S028_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S005_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S005_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S020_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S020_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S025_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S025_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E09_S030_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E09_S030_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S001_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S001_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S004_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S004_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S006_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S006_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S010_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S010_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S014_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S014_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S015_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S015_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S016_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S016_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S019_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S019_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S020_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S020_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S028_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E10_S030_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E10_S030_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S002_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S002_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S006_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S006_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S007_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S007_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S008_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S008_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S012_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S012_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S016_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S016_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S017_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S017_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S018_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S018_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S027_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S027_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S028_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S029_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S029_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E11_S030_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E11_S030_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S003_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S003_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S009_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S009_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S011_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S011_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S013_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S013_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S014_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S014_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S021_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S021_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S022_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S022_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S023_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S023_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S024_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S024_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S026_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S026_D01.wav",
+    "reuse": null,
+    "status": "needed"
+  },
+  {
+    "id": "E12_S028_D01",
+    "kind": "voice_take",
+    "path": "audio/approved/E12_S028_D01.wav",
+    "reuse": "E01_S030_D01",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S017_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S017_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S021_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S021_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S027_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S027_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E01_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E01_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S006_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S006_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E02_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E02_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S026_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S026_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S027_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S027_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E03_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E03_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S007_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S007_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S012_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S012_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S017_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S017_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S027_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S027_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E04_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E04_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S007_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S007_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S017_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S017_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S021_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S021_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E05_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E05_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S001_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S001_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S012_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S012_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S017_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S017_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S021_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S021_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S027_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S027_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E06_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E06_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S001_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S001_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S007_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S007_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S012_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S012_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E07_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E07_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S006_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S006_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S007_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S007_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S012_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S012_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S016_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S016_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S026_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S026_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S027_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S027_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E08_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E08_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S021_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S021_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S026_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S026_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E09_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E09_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S001_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S001_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S002_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S002_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S006_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S006_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S021_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S021_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E10_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E10_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S007_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S007_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S012_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S012_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S016_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S016_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S017_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S017_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S025_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S025_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S026_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S026_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E11_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E11_S030_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S001_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S001_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S002_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S002_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S003_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S003_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S003_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S003_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S004_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S004_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S004_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S004_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S005_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S005_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S005_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S005_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S005_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S005_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S006_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S006_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S007_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S007_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S008_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S008_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S008_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S008_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S009_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S009_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S009_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S009_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S010_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S010_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S010_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S010_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S010_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S010_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S011_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S011_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S011_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S011_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S012_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S012_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S013_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S013_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S013_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S013_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S014_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S014_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S014_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S014_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S015_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S015_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S015_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S015_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S015_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S015_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S016_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S016_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S017_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S017_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S018_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S018_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S018_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S018_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S019_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S019_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S019_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S019_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S020_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S020_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S020_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S020_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S020_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S020_R03.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S021_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S021_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S021_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S021_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S022_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S022_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S022_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S022_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S023_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S023_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S023_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S023_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S024_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S024_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S024_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S024_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S025_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S025_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S025_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S025_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S026_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S026_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S026_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S026_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S027_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S027_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S028_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S028_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S028_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S028_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S029_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S029_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S029_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S029_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S030_R01",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S030_R01.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S030_R02",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S030_R02.png",
+    "status": "needed"
+  },
+  {
+    "id": "E12_S030_R03",
+    "kind": "composed_first_frame",
+    "path": "frames/E12_S030_R03.png",
+    "status": "needed"
+  }
+]

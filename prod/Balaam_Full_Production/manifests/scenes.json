@@ -1,0 +1,722 @@
+[
+  {
+    "id": "E01_SC01",
+    "episode": 1,
+    "title": "The ferry",
+    "location": "LANDING_DAY",
+    "light": "D1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 0,
+    "end": 50
+  },
+  {
+    "id": "E01_SC02",
+    "episode": 1,
+    "title": "Evening meal",
+    "location": "HOUSE",
+    "light": "I1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 50,
+    "end": 100
+  },
+  {
+    "id": "E01_SC03",
+    "episode": 1,
+    "title": "The call",
+    "location": "HOUSE_NIGHT",
+    "light": "N1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 100,
+    "end": 150
+  },
+  {
+    "id": "E01_SC04",
+    "episode": 1,
+    "title": "The abandoned landing",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 150,
+    "end": 200
+  },
+  {
+    "id": "E01_SC05",
+    "episode": 1,
+    "title": "Toward the light",
+    "location": "INLET_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 200,
+    "end": 250
+  },
+  {
+    "id": "E01_SC06",
+    "episode": 1,
+    "title": "Someone called me",
+    "location": "RIDGE_DAWN",
+    "light": "A1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 250,
+    "end": 300
+  },
+  {
+    "id": "E02_SC01",
+    "episode": 2,
+    "title": "Returning",
+    "location": "RIDGE_DAWN",
+    "light": "A1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 300,
+    "end": 350
+  },
+  {
+    "id": "E02_SC02",
+    "episode": 2,
+    "title": "The errand",
+    "location": "HOUSE_DAY",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 350,
+    "end": 400
+  },
+  {
+    "id": "E02_SC03",
+    "episode": 2,
+    "title": "Empty jars",
+    "location": "MARKET",
+    "light": "D1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 400,
+    "end": 450
+  },
+  {
+    "id": "E02_SC04",
+    "episode": 2,
+    "title": "Waiting for meaning",
+    "location": "MARKET",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 450,
+    "end": 500
+  },
+  {
+    "id": "E02_SC05",
+    "episode": 2,
+    "title": "The offer of thanks",
+    "location": "MARKET",
+    "light": "D3",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 500,
+    "end": 550
+  },
+  {
+    "id": "E02_SC06",
+    "episode": 2,
+    "title": "The hill without a question",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 550,
+    "end": 600
+  },
+  {
+    "id": "E03_SC01",
+    "episode": 3,
+    "title": "Clothes on the stone",
+    "location": "LANDING_WINTER",
+    "light": "C1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 600,
+    "end": 650
+  },
+  {
+    "id": "E03_SC02",
+    "episode": 3,
+    "title": "A room glimpsed",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 650,
+    "end": 700
+  },
+  {
+    "id": "E03_SC03",
+    "episode": 3,
+    "title": "Keep the lamp",
+    "location": "HOUSE_EVENING",
+    "light": "I1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 700,
+    "end": 750
+  },
+  {
+    "id": "E03_SC04",
+    "episode": 3,
+    "title": "The burning street",
+    "location": "CITY_FIRE",
+    "light": "F1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 750,
+    "end": 800
+  },
+  {
+    "id": "E03_SC05",
+    "episode": 3,
+    "title": "Six days",
+    "location": "CITY_SQUARE",
+    "light": "F2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 800,
+    "end": 850
+  },
+  {
+    "id": "E03_SC06",
+    "episode": 3,
+    "title": "The story travels",
+    "location": "MARKET_LATER",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 850,
+    "end": 900
+  },
+  {
+    "id": "E04_SC01",
+    "episode": 4,
+    "title": "Years in Pethor",
+    "location": "HOUSE_DAY",
+    "light": "D1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 900,
+    "end": 950
+  },
+  {
+    "id": "E04_SC02",
+    "episode": 4,
+    "title": "The answer withheld",
+    "location": "HOUSE_DAY",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 950,
+    "end": 1000
+  },
+  {
+    "id": "E04_SC03",
+    "episode": 4,
+    "title": "Basket on the ledge",
+    "location": "RIVER_DRY",
+    "light": "D1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1000,
+    "end": 1050
+  },
+  {
+    "id": "E04_SC04",
+    "episode": 4,
+    "title": "Water reaches the basket",
+    "location": "LANDING_FLOOD",
+    "light": "R1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1050,
+    "end": 1100
+  },
+  {
+    "id": "E04_SC05",
+    "episode": 4,
+    "title": "His father at home",
+    "location": "HOUSE_EVENING",
+    "light": "I1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1100,
+    "end": 1150
+  },
+  {
+    "id": "E04_SC06",
+    "episode": 4,
+    "title": "First night of waiting",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1150,
+    "end": 1200
+  },
+  {
+    "id": "E05_SC01",
+    "episode": 5,
+    "title": "Fever days",
+    "location": "HOUSE_DAY",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1200,
+    "end": 1250
+  },
+  {
+    "id": "E05_SC02",
+    "episode": 5,
+    "title": "The same stone",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1250,
+    "end": 1300
+  },
+  {
+    "id": "E05_SC03",
+    "episode": 5,
+    "title": "Hadan's cart",
+    "location": "HOUSE_EVENING",
+    "light": "I1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1300,
+    "end": 1350
+  },
+  {
+    "id": "E05_SC04",
+    "episode": 5,
+    "title": "Stay with your father",
+    "location": "HOUSE_NIGHT",
+    "light": "N1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1350,
+    "end": 1400
+  },
+  {
+    "id": "E05_SC05",
+    "episode": 5,
+    "title": "The boundary stone",
+    "location": "MEADOW",
+    "light": "D1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1400,
+    "end": 1450
+  },
+  {
+    "id": "E05_SC06",
+    "episode": 5,
+    "title": "The gate closes",
+    "location": "MEADOW_DUSK",
+    "light": "D3",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1450,
+    "end": 1500
+  },
+  {
+    "id": "E06_SC01",
+    "episode": 6,
+    "title": "An exact prediction",
+    "location": "HOUSE_NIGHT",
+    "light": "N1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1500,
+    "end": 1550
+  },
+  {
+    "id": "E06_SC02",
+    "episode": 6,
+    "title": "The people outside the bargain",
+    "location": "MEADOW",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1550,
+    "end": 1600
+  },
+  {
+    "id": "E06_SC03",
+    "episode": 6,
+    "title": "Tell them",
+    "location": "MARKET",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1600,
+    "end": 1650
+  },
+  {
+    "id": "E06_SC04",
+    "episode": 6,
+    "title": "On the hill",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1650,
+    "end": 1700
+  },
+  {
+    "id": "E06_SC05",
+    "episode": 6,
+    "title": "Help at home",
+    "location": "HOUSE_EVENING",
+    "light": "I1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1700,
+    "end": 1750
+  },
+  {
+    "id": "E06_SC06",
+    "episode": 6,
+    "title": "A recovered afternoon",
+    "location": "LANDING_DAY",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1750,
+    "end": 1800
+  },
+  {
+    "id": "E07_SC01",
+    "episode": 7,
+    "title": "The visitor and the field",
+    "location": "HOUSE_DAY",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1800,
+    "end": 1850
+  },
+  {
+    "id": "E07_SC02",
+    "episode": 7,
+    "title": "A rehearsed apology",
+    "location": "RIDGE_EVENING",
+    "light": "D3",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1850,
+    "end": 1900
+  },
+  {
+    "id": "E07_SC03",
+    "episode": 7,
+    "title": "The empty shelter",
+    "location": "FIELD",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1900,
+    "end": 1950
+  },
+  {
+    "id": "E07_SC04",
+    "episode": 7,
+    "title": "Years of repair",
+    "location": "HOUSE_LATER",
+    "light": "D1",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 1950,
+    "end": 2000
+  },
+  {
+    "id": "E07_SC05",
+    "episode": 7,
+    "title": "Beor's last season",
+    "location": "HOUSE_RAIN",
+    "light": "I2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 2000,
+    "end": 2050
+  },
+  {
+    "id": "E07_SC06",
+    "episode": 7,
+    "title": "Faithfulness over time",
+    "location": "PETHOR_LATER",
+    "light": "D2",
+    "source_basis": "Original Pethor backstory; encounters inspired by prophetic narratives, invented events.",
+    "start": 2050,
+    "end": 2100
+  },
+  {
+    "id": "E08_SC01",
+    "episode": 8,
+    "title": "Israel below Moab",
+    "location": "ISRAEL_DAY",
+    "light": "D1",
+    "source_basis": "Numbers 22:1\u201321; private temptation and domestic dialogue dramatized.",
+    "start": 2100,
+    "end": 2150
+  },
+  {
+    "id": "E08_SC02",
+    "episode": 8,
+    "title": "A reputation outside Pethor",
+    "location": "BALAK_HALL",
+    "light": "I3",
+    "source_basis": "Numbers 22:1\u201321; private temptation and domestic dialogue dramatized.",
+    "start": 2150,
+    "end": 2200
+  },
+  {
+    "id": "E08_SC03",
+    "episode": 8,
+    "title": "The first request",
+    "location": "HOUSE_EVENING",
+    "light": "I1",
+    "source_basis": "Numbers 22:1\u201321; private temptation and domestic dialogue dramatized.",
+    "start": 2200,
+    "end": 2250
+  },
+  {
+    "id": "E08_SC04",
+    "episode": 8,
+    "title": "Blessed",
+    "location": "RIDGE_NIGHT",
+    "light": "N2",
+    "source_basis": "Numbers 22:1\u201321; private temptation and domestic dialogue dramatized.",
+    "start": 2250,
+    "end": 2300
+  },
+  {
+    "id": "E08_SC05",
+    "episode": 8,
+    "title": "A greater offer",
+    "location": "BALAK_HALL",
+    "light": "I3",
+    "source_basis": "Numbers 22:1\u201321; private temptation and domestic dialogue dramatized.",
+    "start": 2300,
+    "end": 2350
+  },
+  {
+    "id": "E08_SC06",
+    "episode": 8,
+    "title": "Ask again",
+    "location": "RIDGE_EVENING",
+    "light": "D3",
+    "source_basis": "Numbers 22:1\u201321; private temptation and domestic dialogue dramatized.",
+    "start": 2350,
+    "end": 2400
+  },
+  {
+    "id": "E09_SC01",
+    "episode": 9,
+    "title": "The road opens",
+    "location": "ROAD_OPEN",
+    "light": "D1",
+    "source_basis": "Numbers 22:22\u201335; private adversary line dramatized.",
+    "start": 2400,
+    "end": 2450
+  },
+  {
+    "id": "E09_SC02",
+    "episode": 9,
+    "title": "Into the field",
+    "location": "ROAD_FIELD",
+    "light": "D2",
+    "source_basis": "Numbers 22:22\u201335; private adversary line dramatized.",
+    "start": 2450,
+    "end": 2500
+  },
+  {
+    "id": "E09_SC03",
+    "episode": 9,
+    "title": "The vineyard wall",
+    "location": "ROAD_WALL",
+    "light": "D2",
+    "source_basis": "Numbers 22:22\u201335; private adversary line dramatized.",
+    "start": 2500,
+    "end": 2550
+  },
+  {
+    "id": "E09_SC04",
+    "episode": 9,
+    "title": "No room to turn",
+    "location": "ROAD_NARROW",
+    "light": "D1",
+    "source_basis": "Numbers 22:22\u201335; private adversary line dramatized.",
+    "start": 2550,
+    "end": 2600
+  },
+  {
+    "id": "E09_SC05",
+    "episode": 9,
+    "title": "A familiar animal speaks",
+    "location": "ROAD_NARROW",
+    "light": "D1",
+    "source_basis": "Numbers 22:22\u201335; private adversary line dramatized.",
+    "start": 2600,
+    "end": 2650
+  },
+  {
+    "id": "E09_SC06",
+    "episode": 9,
+    "title": "Continue under the command",
+    "location": "ROAD_NARROW",
+    "light": "D1",
+    "source_basis": "Numbers 22:22\u201335; private adversary line dramatized.",
+    "start": 2650,
+    "end": 2700
+  },
+  {
+    "id": "E10_SC01",
+    "episode": 10,
+    "title": "Balak receives Balaam",
+    "location": "MOAB_GATE",
+    "light": "D3",
+    "source_basis": "Numbers 22:36\u201324:25; paraphrased oracles and private connective conversation.",
+    "start": 2700,
+    "end": 2750
+  },
+  {
+    "id": "E10_SC02",
+    "episode": 10,
+    "title": "The first height",
+    "location": "OVERLOOK1",
+    "light": "D1",
+    "source_basis": "Numbers 22:36\u201324:25; paraphrased oracles and private connective conversation.",
+    "start": 2750,
+    "end": 2800
+  },
+  {
+    "id": "E10_SC03",
+    "episode": 10,
+    "title": "The second height",
+    "location": "OVERLOOK2",
+    "light": "D2",
+    "source_basis": "Numbers 22:36\u201324:25; paraphrased oracles and private connective conversation.",
+    "start": 2800,
+    "end": 2850
+  },
+  {
+    "id": "E10_SC04",
+    "episode": 10,
+    "title": "A people seen whole",
+    "location": "ISRAEL_DAY",
+    "light": "D2",
+    "source_basis": "Numbers 22:36\u201324:25; paraphrased oracles and private connective conversation.",
+    "start": 2850,
+    "end": 2900
+  },
+  {
+    "id": "E10_SC05",
+    "episode": 10,
+    "title": "The star and the dismissal",
+    "location": "OVERLOOK3",
+    "light": "D3",
+    "source_basis": "Numbers 22:36\u201324:25; paraphrased oracles and private connective conversation.",
+    "start": 2900,
+    "end": 2950
+  },
+  {
+    "id": "E10_SC06",
+    "episode": 10,
+    "title": "What can they do to themselves",
+    "location": "ROAD_MOAB",
+    "light": "D3",
+    "source_basis": "Numbers 22:36\u201324:25; paraphrased oracles and private connective conversation.",
+    "start": 2950,
+    "end": 3000
+  },
+  {
+    "id": "E11_SC01",
+    "episode": 11,
+    "title": "Working out the price",
+    "location": "MOAB_GUEST",
+    "light": "I1",
+    "source_basis": "Numbers 25:1\u20133 and 31:16; private bargain and brothers' subplot dramatized.",
+    "start": 3000,
+    "end": 3050
+  },
+  {
+    "id": "E11_SC02",
+    "episode": 11,
+    "title": "The private bargain",
+    "location": "ENVOY_ROOM",
+    "light": "I3",
+    "source_basis": "Numbers 25:1\u20133 and 31:16; private bargain and brothers' subplot dramatized.",
+    "start": 3050,
+    "end": 3100
+  },
+  {
+    "id": "E11_SC03",
+    "episode": 11,
+    "title": "An ordinary invitation",
+    "location": "ISRAEL_EDGE",
+    "light": "D3",
+    "source_basis": "Numbers 25:1\u20133 and 31:16; private bargain and brothers' subplot dramatized.",
+    "start": 3100,
+    "end": 3150
+  },
+  {
+    "id": "E11_SC04",
+    "episode": 11,
+    "title": "At the table",
+    "location": "PEOR_FEAST",
+    "light": "T1",
+    "source_basis": "Numbers 25:1\u20133 and 31:16; private bargain and brothers' subplot dramatized.",
+    "start": 3150,
+    "end": 3200
+  },
+  {
+    "id": "E11_SC05",
+    "episode": 11,
+    "title": "What spreads",
+    "location": "ISRAEL_DAY",
+    "light": "D2",
+    "source_basis": "Numbers 25:1\u20133 and 31:16; private bargain and brothers' subplot dramatized.",
+    "start": 3200,
+    "end": 3250
+  },
+  {
+    "id": "E11_SC06",
+    "episode": 11,
+    "title": "News reaches Balaam",
+    "location": "ROAD_CAMP",
+    "light": "N1",
+    "source_basis": "Numbers 25:1\u20133 and 31:16; private bargain and brothers' subplot dramatized.",
+    "start": 3250,
+    "end": 3300
+  },
+  {
+    "id": "E12_SC01",
+    "episode": 12,
+    "title": "The cost in Israel",
+    "location": "ISRAEL_DUSK",
+    "light": "D3",
+    "source_basis": "Numbers 25:6\u20139 and 31:8; invented connective dialogue and Pethor epilogue.",
+    "start": 3300,
+    "end": 3350
+  },
+  {
+    "id": "E12_SC02",
+    "episode": 12,
+    "title": "After the crisis",
+    "location": "ISRAEL_DAWN",
+    "light": "A1",
+    "source_basis": "Numbers 25:6\u20139 and 31:8; invented connective dialogue and Pethor epilogue.",
+    "start": 3350,
+    "end": 3400
+  },
+  {
+    "id": "E12_SC03",
+    "episode": 12,
+    "title": "Later in Midian",
+    "location": "MIDIAN",
+    "light": "D2",
+    "source_basis": "Numbers 25:6\u20139 and 31:8; invented connective dialogue and Pethor epilogue.",
+    "start": 3400,
+    "end": 3450
+  },
+  {
+    "id": "E12_SC04",
+    "episode": 12,
+    "title": "Death",
+    "location": "MIDIAN",
+    "light": "D2",
+    "source_basis": "Numbers 25:6\u20139 and 31:8; invented connective dialogue and Pethor epilogue.",
+    "start": 3450,
+    "end": 3500
+  },
+  {
+    "id": "E12_SC05",
+    "episode": 12,
+    "title": "The woman remembers",
+    "location": "PETHOR_LATER",
+    "light": "D3",
+    "source_basis": "Numbers 25:6\u20139 and 31:8; invented connective dialogue and Pethor epilogue.",
+    "start": 3500,
+    "end": 3550
+  },
+  {
+    "id": "E12_SC06",
+    "episode": 12,
+    "title": "Where he first waited",
+    "location": "RIDGE_EVENING",
+    "light": "D3",
+    "source_basis": "Numbers 25:6\u20139 and 31:8; invented connective dialogue and Pethor epilogue.",
+    "start": 3550,
+    "end": 3600
+  }
+]

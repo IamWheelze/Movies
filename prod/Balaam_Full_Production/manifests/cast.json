@@ -1,0 +1,230 @@
+{
+  "BALAAM_Y": {
+    "name": "Balaam",
+    "design": "Young adult, warm brown skin, narrow face, dark eyes, shoulder-length black curls tied at nape, light beard. Faded indigo tunic, sand sash, dark brown sandals. Lamp carried in left hand unless set down.",
+    "voice_profile": "BALAAM",
+    "performance": "warm low-mid register, conversational English, chosen accent held across season"
+  },
+  "BALAAM_A": {
+    "name": "Balaam",
+    "design": "Same bone structure and eyes, mature adult with fuller beard and weathered indigo mantle. Keep hairline and nose stable; aging shown through grooming and slight eye lines.",
+    "voice_profile": "BALAAM",
+    "performance": "same performer as youth, slightly slower with age"
+  },
+  "BEOR": {
+    "name": "Beor",
+    "design": "Lean older man, warm brown skin, short gray curls and beard, olive-brown tunic. Right hand tremor in fine movements, stable across shots.",
+    "voice_profile": "BEOR",
+    "performance": "older soft low register, dry humor, brief pauses for breath"
+  },
+  "HADAN": {
+    "name": "Hadan",
+    "design": "Broad shoulders, square dark beard touched gray, cream tunic, rust mantle, recognizable leather pouch.",
+    "voice_profile": "HADAN",
+    "performance": "grounded mid-low register, reasonable business manner"
+  },
+  "GIRL_CHILD": {
+    "name": "Rescued girl",
+    "design": "Child with two short braids and ochre tunic, same face proportions carried into later ages.",
+    "voice_profile": "GIRL_CHILD",
+    "performance": "clear young voice, earnest"
+  },
+  "GIRL_ADULT": {
+    "name": "Rescued girl grown",
+    "design": "Same eyes and ochre palette, braids pinned higher, adult stature; now helps Pethor neighbors.",
+    "voice_profile": "GIRL_ADULT",
+    "performance": "adult continuation with matched cadence"
+  },
+  "GIRL_OLDER": {
+    "name": "Rescued girl as mother",
+    "design": "Same adult face gently aged, ochre wrap and familiar braid pattern; daughter beside her.",
+    "voice_profile": "GIRL_ADULT",
+    "performance": "same adult performer, reflective"
+  },
+  "MOTHER": {
+    "name": "Boat mother",
+    "design": "River-working woman, gray-green wrap, strong forearms, dark hair bound at nape; ages through scenes.",
+    "voice_profile": "MOTHER",
+    "performance": "steady maternal alto"
+  },
+  "BAKER": {
+    "name": "Baker",
+    "design": "Middle-aged woman in cream work wrap, flour on forearms, green headcloth, direct observant gaze.",
+    "voice_profile": "BAKER",
+    "performance": "brisk mid register"
+  },
+  "NEIGHBOR": {
+    "name": "Neighbor",
+    "design": "Middle-aged laborer, close dark beard, brown tunic with repaired shoulder.",
+    "voice_profile": "NEIGHBOR",
+    "performance": "tired mid register"
+  },
+  "WOMAN": {
+    "name": "Meadow woman",
+    "design": "Narrow-faced woman with faded blue wrap, leads thin pale goat, practical worn sandals.",
+    "voice_profile": "WOMAN",
+    "performance": "level voice with withheld anger"
+  },
+  "BROTHER": {
+    "name": "Winter survivor",
+    "design": "Adult man with short dark hair, red-brown wet tunic under sister's dry wrap.",
+    "voice_profile": "BROTHER",
+    "performance": "breath broken by cold"
+  },
+  "SON": {
+    "name": "Trapped woman's son",
+    "design": "Young adult with dark cropped hair, dusty brown tunic, clean memorable jawline.",
+    "voice_profile": "SON",
+    "performance": "guarded confidence becoming relief"
+  },
+  "TRAPPED_WOMAN": {
+    "name": "Woman under roof",
+    "design": "Older woman, blue-gray wrap, dust on cheeks, recognizable blue bowl nearby.",
+    "voice_profile": "TRAPPED_WOMAN",
+    "performance": "weak but clear voice, recorded clean then room-treated"
+  },
+  "CITY_MOTHER": {
+    "name": "Mother in burning city",
+    "design": "Dark braided hair, muted red wrap, soot on sleeves, holds boy close.",
+    "voice_profile": "CITY_MOTHER",
+    "performance": "urgent protective alto"
+  },
+  "BOY1": {
+    "name": "Boy one",
+    "design": "Child with short dark curls, tan tunic and bare dusty shins; episode 3 version soot-covered with puppy.",
+    "voice_profile": "BOY1",
+    "performance": "young voice, believable breath"
+  },
+  "BOY2": {
+    "name": "Boy two",
+    "design": "Child with straight dark hair and dull red tunic; meadow and camp versions use distinct named extras at asset stage.",
+    "voice_profile": "BOY2",
+    "performance": "young mid register"
+  },
+  "TRADER": {
+    "name": "Traveling trader",
+    "design": "Slim adult with pointed beard, striped gray mantle and cloth parcel; lock actor within each recurring Pethor appearance.",
+    "voice_profile": "TRADER",
+    "performance": "clear measured traveler voice"
+  },
+  "HEALER": {
+    "name": "Healer",
+    "design": "Older woman with silver-streaked hair, plain brown linen and leather bag; calm efficient hands.",
+    "voice_profile": "HEALER",
+    "performance": "measured low alto"
+  },
+  "DRIVER": {
+    "name": "Cart driver",
+    "design": "Sun-weathered adult, short hair, undyed headcloth, plain gray tunic.",
+    "voice_profile": "DRIVER",
+    "performance": "weary direct delivery"
+  },
+  "FIELD_MAN": {
+    "name": "Field visitor",
+    "design": "Compact adult with neat beard, ochre-brown tunic and boundary cord.",
+    "voice_profile": "FIELD_MAN",
+    "performance": "polite insistent mid register"
+  },
+  "FIELD_SISTER": {
+    "name": "Field sister",
+    "design": "Strong jaw, gray linen wrap, dark hair plaited along back, animal keeper's callused hands.",
+    "voice_profile": "FIELD_SISTER",
+    "performance": "level firm alto"
+  },
+  "BALAK": {
+    "name": "Balak",
+    "design": "Middle-aged king, squared profile, salt-dark beard, wine-red mantle, modest bronze and gold trim.",
+    "voice_profile": "BALAK",
+    "performance": "quiet commanding baritone"
+  },
+  "ENVOY": {
+    "name": "Lead envoy",
+    "design": "Tall lean mature man, narrow beard, taupe mantle with bronze clasp, richer ceremonial layer for second embassy.",
+    "voice_profile": "ENVOY",
+    "performance": "precise courteous tenor"
+  },
+  "DONKEY": {
+    "name": "Balaam's donkey",
+    "design": "Small gray-brown donkey, dark dorsal stripe, pale muzzle, rope halter, sand saddle blanket. Keep ears and coat markings identical.",
+    "voice_profile": "DONKEY_VOICE",
+    "performance": "plain clear adult voice without animal caricature"
+  },
+  "ANGEL": {
+    "name": "Angel",
+    "design": "Still humanlike figure with dark hair, light undyed robe and plain drawn sword, face lit by scene daylight.",
+    "voice_profile": "ANGEL",
+    "performance": "grave clean mid register"
+  },
+  "SERVANT1": {
+    "name": "First servant",
+    "design": "Traveling adult in faded brown tunic, rolled blanket over shoulder.",
+    "voice_profile": "SERVANT1",
+    "performance": "hesitant restrained mid register"
+  },
+  "SERVANT2": {
+    "name": "Second servant",
+    "design": "Traveling adult in muted olive tunic and gray headcloth, leads spare pack.",
+    "voice_profile": "SERVANT2",
+    "performance": "silent"
+  },
+  "ISRAEL_YOUNG": {
+    "name": "Younger Israelite brother",
+    "design": "Young adult, short curls, dark eyes, beige tunic and blue-gray sash; adult actor and design.",
+    "voice_profile": "ISRAEL_YOUNG",
+    "performance": "easy warm tenor becoming defensive"
+  },
+  "ISRAEL_BROTHER": {
+    "name": "Older Israelite brother",
+    "design": "Adult with same family eyes, short beard, clay-brown tunic, repaired strap kept near bowl.",
+    "voice_profile": "ISRAEL_BROTHER",
+    "performance": "practical caring baritone"
+  },
+  "HOST_WOMAN": {
+    "name": "Host at Peor",
+    "design": "Adult woman, dark tied curls, muted plum dress with bronze pin, expressive attentive face.",
+    "voice_profile": "HOST_WOMAN",
+    "performance": "welcoming conversational alto"
+  },
+  "MOSES": {
+    "name": "Moses",
+    "design": "Elder with long silver beard, simple undyed robe and weathered staff; plain dignified design.",
+    "voice_profile": "MOSES",
+    "performance": "older grave voice"
+  },
+  "PHINEHAS": {
+    "name": "Phinehas",
+    "design": "Adult with slim face, dark curls, plain linen clothing and simple spear.",
+    "voice_profile": "PHINEHAS",
+    "performance": "silent in this draft"
+  },
+  "ZIMRI": {
+    "name": "Zimri",
+    "design": "Adult man in cream tunic with dark red sash, distinct from younger brother.",
+    "voice_profile": "ZIMRI",
+    "performance": "silent in this draft"
+  },
+  "COZBI": {
+    "name": "Cozbi",
+    "design": "Adult woman with black braids and deep blue wrap, distinct from feast host.",
+    "voice_profile": "COZBI",
+    "performance": "silent in this draft"
+  },
+  "MIDIAN_MAN": {
+    "name": "Midian host",
+    "design": "Adult with close beard, sand mantle and white headcloth, recognizable woven belt.",
+    "voice_profile": "MIDIAN_MAN",
+    "performance": "courteous speech becoming urgent"
+  },
+  "DAUGHTER": {
+    "name": "Epilogue daughter",
+    "design": "Child with one dark braid, gray-green tunic and ochre sash recalling mother.",
+    "voice_profile": "DAUGHTER",
+    "performance": "curious young voice"
+  },
+  "WORKER": {
+    "name": "Scene worker",
+    "design": "Locally appropriate adult background worker. Approve distinct identities by scene; preserve within that scene.",
+    "voice_profile": "WORKER",
+    "performance": "silent"
+  }
+}

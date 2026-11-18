@@ -1,0 +1,90 @@
+{
+  "style": "Cinematic hand-painted 2D anime drama, grounded anatomy, fine expressive linework, textured painted backgrounds, restrained facial performance, 16:9 landscape. Worn mudbrick, timber, reed mats, coarse woven cloth and clay vessels. Keep the approved character faces, wardrobe, prop placement and screen direction from the first frame.",
+  "locations": {
+    "LANDING_DAY": "Pethor main low landing on river-left bank looking downstream; fixed timber post at shore, low wooden ferry at waterline, bend upstream to screen left.",
+    "HOUSE": "Beor's mudbrick home; bench on right wall, table center-left, river-facing door behind camera-left, single clay lamp on table.",
+    "HOUSE_NIGHT": "Same Beor house at night; bench, table and door retain their positions.",
+    "HOUSE_DAY": "Same house in daylight; the queue waits outside the river-facing doorway.",
+    "HOUSE_EVENING": "Same house at evening; open door provides a line toward river and lane.",
+    "HOUSE_RAIN": "Same house during rain, repaired beams visible above dry living space.",
+    "HOUSE_LATER": "Same house across later seasons; stable doorway and table allow time-match cuts.",
+    "RIDGE_NIGHT": "Old upper landing on river-left bank downstream of settlement bend; post above sheltered inlet, stone stairs descend to inlet. Keep current left-to-right in river-facing shots.",
+    "RIDGE_DAWN": "Same old ridge, post, inlet and staircase at dawn.",
+    "RIDGE_EVENING": "Same ridge at sunset. Clay puppy may stand beside lamp after episode 3.",
+    "INLET_NIGHT": "Sheltered inlet directly below old post; staircase on near left, channel current beyond, family boat approaches from upstream left.",
+    "MARKET": "Pethor lane beside vulnerable mudbrick storage wall; baker's alternate stall lies around near corner, jars placed across unoccupied danger lane.",
+    "MARKET_LATER": "Same Pethor market after wall repair, with caravan unloading area beyond.",
+    "LANDING_WINTER": "Same low landing in winter; clothing is arranged on dry high stones above spray.",
+    "CITY_FIRE": "Fictional distant city, workshop alley leading toward gate; exterior stair beside workshop and child hidden beneath.",
+    "CITY_SQUARE": "Open square safely beyond workshop fire, water jars near exit, path back to alley visible.",
+    "RIVER_DRY": "High stone ledge near Pethor with a basket landmark, path to high ground on left bank.",
+    "LANDING_FLOOD": "Same Pethor landing and upper path during rising river; animals and families move uphill away from current.",
+    "MEADOW": "Common pasture outside Pethor; boundary stone beside a rough timber gate, dry alternate path visible.",
+    "MEADOW_DUSK": "Same meadow and gate at dusk after public transfer.",
+    "FIELD": "Field sister's animal shelter, gate near left, empty trough center, path toward distant grazing beyond.",
+    "PETHOR_LATER": "Older Pethor with stable river and ridge landmarks, repaired homes and mature planted tree beside main lane.",
+    "ISRAEL_DAY": "Ground-level Israelite camp: family tent with dark seam over doorway, shared water point, two brothers' work area and animal pen.",
+    "ISRAEL_EDGE": "Outer edge of same camp near path toward Peor; cooking fire and brothers' tent stay fixed.",
+    "ISRAEL_DUSK": "Same family lane at dusk, single lamp outside brothers' tent and meeting place farther along.",
+    "ISRAEL_DAWN": "Same camp after crisis, subdued dawn, practical care around tents.",
+    "BALAK_HALL": "Moabite royal chamber, stone threshold, plastered walls, woven textile backdrop and bronze fittings, restrained regional design.",
+    "MOAB_GATE": "Moabite city gate with shaded side chamber; king receives travelers inside entrance.",
+    "ROAD_OPEN": "Open travel road toward Moab, envoys ahead and Balaam's two servants behind.",
+    "ROAD_FIELD": "Field adjoining open road, enough room for donkey to turn fully out of path.",
+    "ROAD_WALL": "Vineyard road between stone walls, tight lateral clearance for mounted rider.",
+    "ROAD_NARROW": "Narrow rocky pass with no side exit; donkey and angel share same path axis.",
+    "MOAB_GUEST": "Balaam's Moab guest room, familiar travel lamp and bedroll, door toward envoy's quarters.",
+    "OVERLOOK1": "First Moab overlook, partial view of Israel, altars on near ridge and prevailing wind from right.",
+    "OVERLOOK2": "Second overlook with different stone profile and narrower camp view, distinct crosswind from left.",
+    "OVERLOOK3": "Third overlook opening toward entire camp, bare rock and open horizon, king behind prophet.",
+    "ROAD_MOAB": "Descent from Moab heights, roadside rest place where envoy can speak privately.",
+    "ENVOY_ROOM": "Envoy's private room, shallow table under fixed torch, closed lane door, cloth-wrapped silver.",
+    "PEOR_FEAST": "Moabite courtyard near Peor, communal table, discreet side rooms and shrine across courtyard; exit remains visible.",
+    "ROAD_CAMP": "Travel rest camp after Peor, one oil lamp near Balaam's bedroll, visitor arriving along road.",
+    "MIDIAN": "Later Midianite camp, new tent pattern and rock profile establish location and time change; eastern road visible."
+  },
+  "lighting": {
+    "D1": "Warm morning sun from screen left at a low angle, soft earth bounce on right cheek, gentle atmospheric depth. Keep shadow direction constant within scene.",
+    "D2": "Bright overcast or softened high daylight, restrained contrast, neutral earth bounce, no drifting exposure or pulsing shadows.",
+    "D3": "Late sunlight from screen right and behind, amber rim along hair and cloth, cooler open-sky fill on face, practical flames only when shown.",
+    "I1": "Oil lamp motivated warm key from the visible table lamp at screen left, weak blue exterior fill at door, soft falloff into room. Expose faces consistently.",
+    "I2": "Rainy daytime interior, broad cool doorway key, low warm lamp fill. Repaired roof stays dry inside.",
+    "I3": "Shaded hall or chamber, broad doorway side light and warm practical torch fill. Keep flames behind speaking faces.",
+    "N1": "Night interior, low steady oil lamp at table, faint cool doorway fill. Dark room remains readable through warm edge separation.",
+    "N2": "Moonlit exterior, slate-blue sky fill and small amber lamp near face where present. Local lamp shadows follow its actual location.",
+    "A1": "Pale dawn, soft cool river fill, first warm edge light above horizon. Fade lamp contribution as daylight strengthens.",
+    "C1": "Cold winter daylight, diffuse silver-blue sky, muted earth palette, visible wet cloth, restrained breath condensation.",
+    "F1": "Fire-lit street, orange workshop fire motivates back and side light, gray-blue smoke fill, lamp adds small amber foreground pool.",
+    "F2": "Open square beyond fire, smoke softened warm edge light, cool open-sky face fill, distant fire kept behind safe area.",
+    "R1": "Overcast flood light, gray-brown water, soft sky reflection, stable exposure and physically consistent debris flow.",
+    "T1": "Evening feast courtyard, fixed amber lamps on posts and tables, warm faces against dark background, shrine lamps deeper in frame."
+  },
+  "cameras": {
+    "WIDE_LOCK": "Wide establishing view, about 28mm full-frame equivalent, tripod still, broad depth of field. Keep horizon and geographic landmarks fixed.",
+    "INSERT_LOCK": "Tight prop insert, about 85mm equivalent, tripod still. Moderate depth of field keeps the interacting fingers and prop legible.",
+    "MEDIUM_LOCK": "Eye-level waist-up medium shot, about 50mm equivalent, tripod still. Keep hands readable where the action needs them.",
+    "CLOSE_LOCK": "Eye-level close-up, about 85mm equivalent, tripod still. Focus on nearest eye and keep nose and lips within acceptable focus.",
+    "TWO_LOCK": "Eye-level two-shot, about 50mm equivalent, both faces on a shared focal plane. Keep established left/right positions.",
+    "OVER_LOCK": "Over-shoulder composition, about 50mm equivalent. Foreground shoulder soft, principal subject and relevant landmark clear. Stay on the established side of the axis.",
+    "WIDE_TRACK": "Wide lateral tracking view, about 35mm equivalent. Travel parallel to movement at walking pace, ease to a stop before the final pose.",
+    "MEDIUM_TRACK": "Waist-up lateral tracking view, about 50mm equivalent. Follow at the subject's pace and settle into the final composition.",
+    "WIDE_PULL": "Begin wide, about 35mm equivalent. Pull back slowly to reveal the foreground observer, keep the distant subject readable, and stop for the final beat.",
+    "MATCH_LOCK": "Locked composition designed for a match cut between separately generated states. Align horizon, prop scale and eyeline in the edit. Each state is a separate source take.",
+    "VISION_LOCK": "Locked image of the specified subject, about 50mm equivalent. Use separately generated plates for the vision and waking world; bridge them in the edit.",
+    "POV_LOCK": "Stationary subject-eye-level viewpoint, about 35mm equivalent. Match the approach direction established in the preceding shot."
+  },
+  "extra_voice_profiles": {
+    "GOD": [
+      "VOICE_SHARED",
+      "same close calm actor throughout; clean steady speech, ordinary room perspective, no cavern echo"
+    ],
+    "ADVERSARY": [
+      "VOICE_SHARED",
+      "same performer and acoustic perspective as GOD; convincing reasoning, no sinister filter"
+    ],
+    "DONKEY_VOICE": [
+      "DONKEY_VOICE",
+      "plain adult speech, dry and direct; jaw animation tested specifically on muzzle"
+    ]
+  }
+}

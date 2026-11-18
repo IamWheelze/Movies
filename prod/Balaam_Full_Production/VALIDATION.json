@@ -1,0 +1,16 @@
+{
+  "episodes": 12,
+  "scenes": 72,
+  "editorial_shots": 360,
+  "seconds": 3600,
+  "frames": 86400,
+  "fps": 24,
+  "render_pieces": 692,
+  "dialogue_cues": 229,
+  "spoken_words": 2699,
+  "min_shot_seconds": 5,
+  "max_shot_seconds": 16,
+  "planned_dialogue_seconds": 1199.72,
+  "validation": "timeline and references passed; renders, voices and lip alignment pending",
+  "quality_review": "Continuation first frames, visible speech routing and short source prompts corrected. Anime approved. Animatic retiming allowed within 60\u2013120 minutes. Render quality untested."
+}
