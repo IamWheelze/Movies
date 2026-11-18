@@ -3,7 +3,7 @@ import json, os, random, sys, time, urllib.request
 H = 'http://127.0.0.1:8188'
 CH = {
  'balaam_c': '1boy, solo, male focus, young man, warm brown skin, narrow face, black curly hair tied at nape, light beard, indigo tunic, sand sash',
- 'mother_c': '1girl, solo, adult woman, warm brown skin, dark hair in a low bun with side bangs, gray-green wrap dress, facing viewer, face visible, looking at viewer',
+ 'mother_c': '1girl, solo, adult woman, dark-skinned female, dark brown skin, dark hair in a low bun with side bangs, gray-green wrapped cloth dress, simple ancient robe, facing viewer, face visible, looking at viewer',
  'girl_c': '1girl, solo, little girl, warm brown skin, two short braids, ochre tunic',
 }
 POSES = ['front view, upper body, looking at viewer', 'three-quarter view, upper body', 'side profile, upper body', 'looking up, upper body',
@@ -12,7 +12,7 @@ POSES = ['front view, upper body, looking at viewer', 'three-quarter view, upper
          'night, warm lamp light on face, upper body', 'river bank background, upper body']
 BG = ['plain light background', 'ancient mesopotamian mudbrick wall background']
 QUAL = 'masterpiece, high score, great score, absurdres, anime screenshot, hand-painted background, earth tones, '
-NEG = 'lowres, bad anatomy, bad hands, text, error, worst quality, low quality, signature, watermark, blurry, 3d, realistic, photo, from behind, back view, multiple people, collage, panels, blonde hair, modern clothes'
+NEG = 'lowres, bad anatomy, bad hands, text, error, worst quality, low quality, signature, watermark, blurry, 3d, realistic, photo, from behind, back view, light skin, pale skin, kimono, japanese clothes, obi, multiple people, collage, panels, blonde hair, modern clothes'
 
 def api(p, b=None):
     r = urllib.request.Request(H + p, json.dumps(b).encode() if b is not None else None, {'Content-Type': 'application/json'})
