@@ -4,8 +4,12 @@ D = '/workspace/t/trainset/'
 shutil.rmtree(D, ignore_errors=True); os.makedirs(D)
 rows = []
 for spec in sys.argv[1].split():
-    c, ids = spec.split(':')
-    for i in ids.split(','):
+    c, _, ex = spec.partition('-')  # char[-excluded_ids,comma separated]
+    ex = ex.split(',') if ex else []
+    ids = [os.path.basename(f)[len(c) + 1:len(c) + 5] for f in sorted(glob.glob('/workspace/runpod-slim/ComfyUI/output/ds/%s_*.png' % c))]
+    for i in ids:
+        if i in ex:
+            continue
         f = glob.glob('/workspace/runpod-slim/ComfyUI/output/ds/%s_%s_*.png' % (c, i))[0]
         cap = json.load(open('/workspace/t/ds_%s_%s.txt' % (c, i)))
         name = '%s_%s.png' % (c, i)
